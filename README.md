@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Xiaohan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center"> Full-stack Development | Information Systems </h4>
 <hr/>
-<h5> University of Auckland  &  Carnegie Mellon University </h5>
+Carnegie Mellon University <br />
+University of Auckland <br />
 
 ## 🛠️ My Skills
-
 ### 👉 Programming languages
 
 <p align="left"> 

@@ -5,8 +5,6 @@ Carnegie Mellon University <br />
 University of Auckland <br />
 
 ## 🛠️ My Skills
-### 👉 Skills
-
 <p align="left"> 
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 

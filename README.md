@@ -6,43 +6,43 @@ University of Auckland <br />
 
 ## 🛠️ My Skills
 <p align="left"> 
-  &emsp;
+  
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
      <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?logo=javascript&logoColor=black">
    </a>
-  &emsp;
+  
   <a href="https://www.typescriptlang.org/" target="_blank"> 
      <img alt="TypeScript" src="https://shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=FFF">
    </a>
-  &emsp;
+  
   <a href="https://nodejs.org/en" target="_blank"> 
      <img alt="NodeJs" src="https://img.shields.io/badge/Node.js-43853D?logo=node.js&logoColor=white">
    </a>
-  &emsp;
+  
   <a href="https://react.dev/" target="_blank"> 
      <img alt="React" src="https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB">
    </a>
-  &emsp;
+  
   <a href="https://getbootstrap.com/" target="_blank"> 
      <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?logo=bootstrap&logoColor=white">
    </a>
-  &emsp;
+ 
   <a href="https://mui.com/" target="_blank"> 
      <img alt="MUI" src="https://img.shields.io/badge/MUI-0081CB?logo=mui&logoColor=white">
    </a>
-   &emsp;
+  
    <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
     <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?logo=c-sharp&logoColor=white">
   </a>
-  &emsp;
+  
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank">
     <img alt="DOTNET" src="https://img.shields.io/badge/.NET-5C2D91?logo=.net&logoColor=white">
   </a>
-  &emsp;
+ 
   <a href="https://www.java.com" target="_blank"> 
     <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
   </a>
-  &emsp;
+ 
    <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white">
   </a>
